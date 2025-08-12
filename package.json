@@ -1,0 +1,26 @@
+{
+  "name": "pdr-salesforce-automation-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --headed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayManley/pdr-salesforce-automation-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayManley/pdr-salesforce-automation-testing/issues"
+  },
+  "homepage": "https://github.com/JayManley/pdr-salesforce-automation-testing#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  }
+}
